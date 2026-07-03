@@ -5,3 +5,7 @@ limao
 uva
 morango
 melancia
+abacate
+pêssego
+banana
+melao
