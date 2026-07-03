@@ -2,3 +2,5 @@ coca
 suco
 laranja
 limao
+uva
+morango
