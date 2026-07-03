@@ -9,4 +9,5 @@ abacate
 pêssego
 banana
 toranja
-melao
+melão
+pera 
